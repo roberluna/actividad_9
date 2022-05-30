@@ -11,7 +11,7 @@ const logo = {
 export default function App() {
   return (
     <ScrollView>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text>Open up App.js to start working on your HOLA MUNDO!</Text>
       <Image source={logo} />
       <Text>Open up App.js to start working on your app!</Text>
       <Image source={logo} />
